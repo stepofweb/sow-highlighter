@@ -17,6 +17,8 @@ SOW Highlighter is a tiny open-source library which improves readability of code
 
 **The beauty**: can also be used with any highlight.js css file! So if you like a particular highlight.js style, use it! Cool, isn't it?
 
+[Here is the demo!](http://stepofweb.github.io/sow-highlighter)
+
 ## How do I use it?
 Include the script:
 &lt;script src="dist/sow-highlighter.min.js">&lt;/script>
