@@ -19,6 +19,10 @@ SOW Highlighter is a tiny open-source library which improves readability of code
 
 [Here is the demo!](http://stepofweb.github.io/sow-highlighter)
 
+
+![Screenshot](https://stepofweb.github.io/sow-highlighter/screenshot.png)
+
+
 ## How do I use it?
 Include the script:
 &lt;script src="dist/sow-highlighter.min.js">&lt;/script>
