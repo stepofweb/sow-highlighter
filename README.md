@@ -102,3 +102,5 @@ Sure, move the classes directly to &lt;pre>
 In theory, yes! "Copy code" button will be added but will anyway be kept as lightweight as possible so fancy/complicated functions will never be added! Maybe as extensions (example: live code edit).
 3. Would you maintain this script?
 Yes, because is part of  [Smarty Template](https://wrapbootstrap.com/theme/smarty-website-admin-rtl-WB02DSN1B)) and also, is the code I use myself!
+
+- inspired from microlight
