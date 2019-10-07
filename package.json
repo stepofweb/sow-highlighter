@@ -1,0 +1,27 @@
+{
+  "author": "Dorin Grigoras <www.stepofweb.com>",
+  "name": "sow-highlighter",
+  "description": "lightweight highlighter of any programming language, without addition of external js/css file",
+  "version": "0.1.0",
+  "keywords": [
+    "highlight",
+    "highlighting",
+    "source",
+    "code",
+    "source code",
+    "snippet",
+    "code snippet",
+    "html code",
+    "js code",
+    "css code",
+    "php code",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asvd/microlight.git"
+  },
+  "main": "dist/sow-highlighter.min.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
