@@ -1,4 +1,4 @@
-# SOW : Bootstrap Code Highlighter
+# Bootstrap Code Highlighter
 
 
 * Lightweight
